@@ -1,4 +1,4 @@
-setwd("/media/parth/CE02917E02916BE9/R")  
+setwd("/media/parth/CE02917E02916BE9/R")   
 input=read.csv(("world_bank.csv"))
 #View(input) 
 names(input)
