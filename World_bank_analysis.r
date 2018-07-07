@@ -7,7 +7,7 @@ input=input[,c(3,5)]
 #input1=input[,2] 
 #View(input1)
 #extracting the population
-population_total=input[1:217,]
+population_total=input[1:217,]   
 population_total 
 c1=population_total
 c2=input[218:(218+216),] 
