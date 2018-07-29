@@ -4,7 +4,7 @@ input=read.csv(("world_bank.csv"))
 names(input)        
 input=input[,c(3,5)]                         
 #View(input)            
-#input1=input[,2]         
+#input1=input[,2]          
 #View(input1)
 #extracting the population   
 population_total=input[1:217,]   
