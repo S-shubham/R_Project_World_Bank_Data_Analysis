@@ -1,5 +1,5 @@
 setwd("/media/parth/CE02917E02916BE9/R")       
-input=read.csv(("world_bank.csv"))   
+input=read.csv(("world_bank.csv"))     
 #View(input)        
 names(input)        
 input=input[,c(3,5)]                           
